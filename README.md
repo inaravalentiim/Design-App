@@ -11,4 +11,9 @@ No aplicativo é possível:
 - No perfil de doador: seguir as ONGs e voluntários, procurar novas causas de forma simples, podendo se atualizar sobre outros cenários e fazer sua doação, concorrer a rifas e prêmios e contribuir com as ONGs de várias formas diferentes.
 <br>
 
-![alt text](https://raw.githubusercontent.com/inaravalentiim/Design-App/branch/path/to/req1.png)"
+<div align="center">
+<img src="https://github.com/inaravalentiim/Design-App/assets/108136707/e54cdcab-9c91-4d6a-84b5-7490ae71b8e5" width="500px" />
+</div>
+
+
+
